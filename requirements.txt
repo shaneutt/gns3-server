@@ -1,5 +1,5 @@
 netifaces
-tornado==3.2.2
+tornado==6.3.3
 pyzmq
 jsonschema
 pycurl
